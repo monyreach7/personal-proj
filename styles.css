@@ -1,0 +1,53 @@
+header {
+  width: 100%;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.logo img {
+  width: 30%;
+  height: auto;
+}
+
+.nav-bar {
+  width: 100%;
+}
+
+.nav-item {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+}
+.nav-item li {
+  font-size: 20px;
+  font-weight: 300;
+  margin: 1%;
+}
+
+.nav-item li a {
+  text-decoration: none;
+  color: gray;
+}
+
+.first-banner {
+  width: 100%;
+  display: flex;
+}
+
+.first-banner img {
+  width: 30%;
+  height: auto;
+  padding-left: 5%;
+  border-radius: 5%;
+}
+
+.first-banner h3 {
+  padding-left: 5%;
+  margin: auto auto;
+  color: gray;
+  font-weight: 100;
+}
